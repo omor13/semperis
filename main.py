@@ -1,2 +1,2 @@
-name = "fadi"
+name = "sea"
 print(name)
